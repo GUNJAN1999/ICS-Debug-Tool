@@ -1,0 +1,16 @@
+{
+    "names" : [
+        {"name":"InstrumentID"},
+        {"name":"InstrumentType"},
+        {"name":"CreationDate"},
+        {"name":"ExpiryDate"},
+        {"name":"CustomerID"},
+        {"name":"AvailableBalance"},
+        {"name":"KYCStatus"},
+        {"name":"InstrumentStatus"},
+        {"name":"CustomerStatus"},
+        {"name":"MonthlyROllingBalance"},
+        {"name":"YearlyRollingBalance"},
+        {"name":"DailyRollingBalance"}
+    ]
+}
